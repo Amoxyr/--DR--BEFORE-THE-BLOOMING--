@@ -1,0 +1,1 @@
+text="* For some reason, there&  is a brand-name chocolate&  bar in the fridge.{pause}{clear}* You feel tempted to take it...&* But it isn't yours."

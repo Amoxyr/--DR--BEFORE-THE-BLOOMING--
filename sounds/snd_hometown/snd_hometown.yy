@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_hometown",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":143.21053,
+  "name":"snd_hometown",
+  "parent":{
+    "name":"Overworld",
+    "path":"folders/Sounds/BGM/Overworld.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_hometown.ogg",
+  "type":1,
+  "volume":1.0,
+}

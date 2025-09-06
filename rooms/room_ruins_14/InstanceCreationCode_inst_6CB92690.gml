@@ -1,0 +1,1 @@
+text="* This cheese has been here for&  a very, very long time.{pause}{clear}* At this point, it isn't even&  stuck to the table...{pause}{clear}* It has essentially become a&  part of the table..."

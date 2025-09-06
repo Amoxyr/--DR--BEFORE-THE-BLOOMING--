@@ -1,0 +1,37 @@
+This should be in your obj_player Step, after
+collision handling:
+
+/// @arg inst   Instance of obj_interactbox
+/// @arg facing player.facing_direction (0=R,1=L,2=U,3=D)
+function can_interact(inst, facing) {
+    var off = inst.interact_off;
+    switch (facing) {
+        case 0: return place_meeting(x + off, y, inst) && x < inst.x;
+        case 1: return place_meeting(x - off, y, inst) && x > inst.x;
+        case 2: return place_meeting(x, y + off, inst) && y < inst.y;
+        case 3: return place_meeting(x, y - off, inst) && y > inst.y;
+    }
+    return false;
+}
+var ledx = dx/4
+if (instance_place(x + ledx, y, obj_interact) != noone) {
+    var ib = instance_place(x + ledx, y, obj_interact);
+    if (ib.blockMovement) {
+        x -= dx;
+        sprite_index = dx > 0 ? kris_walk_r : kris_walk_l;
+    }
+}
+var ledy = dy/4
+if (instance_place(x, y + ledy, obj_interact) != noone) {
+    var ib = instance_place(x, y + ledy, obj_interact);
+    if (ib.blockMovement) {
+        y -= dy;
+        sprite_index = dy > 0 ? kris_walk_d : kris_walk_u;
+    }
+}
+if (select) {
+    var ib_near = instance_nearest(x, y, obj_interact);
+    if (ib_near != noone && can_interact(ib_near, facing_direction)) {
+        ib_near.interactAct(self);
+    }
+}

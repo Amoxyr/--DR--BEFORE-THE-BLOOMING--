@@ -1,0 +1,1 @@
+text="* ...{pause}{clear}* There is a really old...&  Butterscotch Pie on the counter.{pause}{clear}* ..."

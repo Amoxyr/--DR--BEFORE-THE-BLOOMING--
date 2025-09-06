@@ -1,0 +1,1 @@
+text="* There is some... really old&  white fur stuck in the drain...{pause}{clear}* You decide not to question it."

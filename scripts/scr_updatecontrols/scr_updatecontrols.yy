@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_updatecontrols",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_updatecontrols",
+  "parent":{
+    "name":"ControlUPD",
+    "path":"folders/Scripts/ControlUPD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

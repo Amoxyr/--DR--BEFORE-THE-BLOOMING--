@@ -1,0 +1,34 @@
+	for(var i = 0; i < array_length(fadeOutInstances); i++)
+	{
+		if fadeOutInstances[i] < 0
+		{
+			if FadeOutVol[i] > 0 { FadeOutVol[i] -= 1/FadeOutTime[i]   };
+		}
+	       
+		   else
+	     {
+		if FadeOutVol[i] = 0
+		
+	     {}
+		   
+	
+	}
+  audio_sound_gain(fadeOutInstances[i], FadeOutVol[i]*_finalVol, 0);
+  
+  if fadeOutInstances <= 0
+  {
+	  if audio_is_playing(fadeOutInstances[i]) {  audio_stop_sound(fadeOutInstances[i]); };
+	  
+	  array_delete(fadeOutInstances, i, 1);
+	  array_delete(FadeOutVol, i, 1);
+	  array_delete(FadeOutTime, i, 1);
+	  
+	  i--;
+  }
+	}
+	
+	
+	
+	
+	SoundInstance = noone;
+SoundAsset = noone;

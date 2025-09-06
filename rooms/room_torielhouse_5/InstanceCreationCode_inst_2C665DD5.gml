@@ -1,0 +1,1 @@
+text="* (An empty photo frame.)&* (It's really dusty...)"

@@ -1,0 +1,1 @@
+text="* Look at all these cool toys!&* They don't really interest&  you at all."

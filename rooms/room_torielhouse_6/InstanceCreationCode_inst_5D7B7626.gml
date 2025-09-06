@@ -1,0 +1,1 @@
+text="* It's an encyclopedia of&  subterranean plants. You&  open to the middle...{pause}{clear}* \"Typha\" - A group of wetland&  flowering plants with&  brown, oblong seedpods.{pause}{clear}* Known more commonly as&  \"water sausages.\""

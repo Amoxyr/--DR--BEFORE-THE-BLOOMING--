@@ -1,0 +1,1 @@
+text="* If you can read this,press&  the red switch."

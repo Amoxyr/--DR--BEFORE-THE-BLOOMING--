@@ -1,0 +1,1 @@
+text="* (Seeing this new, unknown and& mysterious world fills you with& {color `yellow`}DETERMINATION{color `white`}.)"

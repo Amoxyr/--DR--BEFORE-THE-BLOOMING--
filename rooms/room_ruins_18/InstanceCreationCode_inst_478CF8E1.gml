@@ -1,0 +1,1 @@
+text="* There is just one switch."

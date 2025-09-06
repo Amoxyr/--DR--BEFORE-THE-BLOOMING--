@@ -1,0 +1,1 @@
+text="* Stay on the path."

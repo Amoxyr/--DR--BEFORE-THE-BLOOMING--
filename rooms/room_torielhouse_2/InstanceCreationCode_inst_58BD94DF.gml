@@ -1,0 +1,1 @@
+text="* The fire is put out.&* Seems like it hasn't been&  used for some years."

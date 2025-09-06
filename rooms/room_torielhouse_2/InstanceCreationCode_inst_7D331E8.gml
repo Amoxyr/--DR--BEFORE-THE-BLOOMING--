@@ -1,0 +1,1 @@
+text="* (Seems like the right size&  for Toriel.){pause}{clear}* (...You feel tempted to&  sit in it. But you think&  that would be rude.){pause}{clear}* (This is not your home,&  after all.)"

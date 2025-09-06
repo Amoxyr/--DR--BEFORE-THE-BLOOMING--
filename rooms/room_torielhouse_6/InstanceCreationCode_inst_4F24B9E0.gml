@@ -1,0 +1,1 @@
+text="* (Toriel's small chair.)&* (Its name is Chairiel.)"

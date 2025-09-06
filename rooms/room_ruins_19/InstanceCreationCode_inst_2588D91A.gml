@@ -1,0 +1,1 @@
+text="* The far door is not an exit.&* It simply marks a rotation&  in perspective."

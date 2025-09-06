@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"vc_text",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":144,
+  "compression":3,
+  "conversionMode":0,
+  "duration":1.7142857,
+  "name":"vc_text",
+  "parent":{
+    "name":"Dialogue",
+    "path":"folders/Sounds/Dialogue.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"vc_text.ogg",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+text="* Inside the cupboard are&  cookie cutters for&  gingerbread monsters."

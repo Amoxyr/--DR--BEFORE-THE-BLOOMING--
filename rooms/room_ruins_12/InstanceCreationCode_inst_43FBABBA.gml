@@ -1,0 +1,1 @@
+text="* Didn't you read the sign&  downstairs?"

@@ -1,0 +1,2 @@
+target_room=room_ruins_27
+target_landmark=0;

@@ -1,0 +1,1 @@
+text="* Inside the drawer are&  flower seeds and some&  broken crayons."

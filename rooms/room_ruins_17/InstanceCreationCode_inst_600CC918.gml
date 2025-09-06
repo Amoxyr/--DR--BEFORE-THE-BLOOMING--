@@ -1,0 +1,1 @@
+text="* It's a hole...&* There's nothing there."

@@ -1,0 +1,1 @@
+text="* The stovetop is very clean.&* Toriel must use fire&  magic instead."

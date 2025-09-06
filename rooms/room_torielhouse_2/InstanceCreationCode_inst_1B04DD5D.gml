@@ -1,0 +1,1 @@
+text="* The ends of the tools have&  been filed down to&  make them safer."

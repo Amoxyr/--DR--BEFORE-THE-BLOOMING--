@@ -1,0 +1,1 @@
+text="* The switch appears to be&  deactivated."

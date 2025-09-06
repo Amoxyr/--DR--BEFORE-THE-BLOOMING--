@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_torielhome",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":100.78984,
+  "name":"snd_torielhome",
+  "parent":{
+    "name":"Overworld",
+    "path":"folders/Sounds/BGM/Overworld.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_torielhome.ogg",
+  "type":1,
+  "volume":1.0,
+}

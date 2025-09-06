@@ -1,0 +1,1 @@
+text="* (A box of kids' shoes in&a disparity of sizes.)"

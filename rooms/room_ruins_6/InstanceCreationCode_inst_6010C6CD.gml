@@ -1,0 +1,1 @@
+text="* The western room is the&  eastern room's blueprint."
