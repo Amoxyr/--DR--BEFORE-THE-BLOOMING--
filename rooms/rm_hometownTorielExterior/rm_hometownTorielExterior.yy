@@ -29,7 +29,6 @@
     {"name":"inst_A83451","path":"rooms/rm_hometownTorielExterior/rm_hometownTorielExterior.yy",},
     {"name":"inst_16735EDC","path":"rooms/rm_hometownTorielExterior/rm_hometownTorielExterior.yy",},
     {"name":"inst_471664A7","path":"rooms/rm_hometownTorielExterior/rm_hometownTorielExterior.yy",},
-    {"name":"inst_521F0375","path":"rooms/rm_hometownTorielExterior/rm_hometownTorielExterior.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -64,7 +63,6 @@
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_hometown","path":"tilesets/ts_hometown/ts_hometown.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"NPCs","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_16735EDC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16735EDC","objectId":{"name":"obj_berdly","path":"objects/obj_berdly/obj_berdly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":247.0,"y":164.0,},
-        {"$GMRInstance":"v2","%Name":"inst_521F0375","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_521F0375","objectId":{"name":"obj_interact","path":"objects/obj_interact/obj_interact.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.328125,"scaleY":0.296875,"x":256.0,"y":169.0,},
       ],"layers":[],"name":"NPCs","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Save","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_2A918230","colour":2449473535,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A918230","objectId":{"name":"obj_save","path":"objects/obj_save/obj_save.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":73.0,"y":178.0,},

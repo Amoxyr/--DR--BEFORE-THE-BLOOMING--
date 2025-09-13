@@ -153,13 +153,4 @@ if place_meeting(x, y, obj_save){
 
 }}}
 
-
-with(mControl){
-	registerControl("title", true);
-	registerControl("player", false);
-	registerControl("dialogue", false);
-	
-}
-
-layer_depth(layer_get_id("Dialogue"), -999)
 	
